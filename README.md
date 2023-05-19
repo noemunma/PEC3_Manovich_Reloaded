@@ -15,6 +15,8 @@ Fecha: 25 de mayo de 2023
 ## La Hibridación
 
 
+< Creo que el nuevo periodo que empieza a finales de los setenta representa una segunda fase, notablemente distinta, de la evolución del ordenador como metamedio, después de su primera fase de invención e implantación práctica inicial. Esta nueva fase es la hibridación de los medios. Manovich, Lev. (2013)
+
 
 
 ## RADIO GARDEN
