@@ -12,7 +12,8 @@ Fecha: 25 de mayo de 2023
 
 
 
-## Planteamiento
+## La Hibridación
+
 
 
 
@@ -26,10 +27,10 @@ Para Manovich, la hibridación es el resultado del uso y combinación de diferen
 
 Es increible cómo una APP puede conectar a usuarios que tienen diferentes formas de vida, puede llegar a unir culturas e idiomas a través de la música y de los programas de cada emisora. 
 
-Sin duda, [RADIO GARDEN](https://radio.garden/) t 
+Sin duda, [RADIO GARDEN](https://radio.garden/) 
 
 
-## Re-descubriendo la hibridacion: Caso 2
+## WINDY
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
