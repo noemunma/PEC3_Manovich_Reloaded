@@ -1,6 +1,6 @@
-# PEC3: Visionando el futuro con las gafas de Manovich 
+# RADIO GARDEN 
 
-### Recurso de aprendizaje de Cultura Digital 
+### PEC3: Visionando el futuro con las gafas de Manovich  
 
 
 Autor: 
