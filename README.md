@@ -20,9 +20,12 @@ Fecha: 25 de mayo de 2023
 
 La app [RADIOGARDEN](https://radiogarden.com/) es un claro ejemplo de hibridación mediática que responde a la teoría de Lev Manovich en su obra "El Lenguaje de los Nuevos Medios". 
 
-Para Manovich, la hibridación es el resultado del uso y combinación de diferentes elementos y herramientas de la tecnología. RADIO GARDEN combina diferentes elementos. Podemos encontrar tecnología GPS que permite la ubicación geográfica del usuario y elegir y escuchar las emisoras de radio de todo el mundo, al mismo tiempo.
+Para Manovich, la hibridación es el resultado del uso y combinación de diferentes elementos y herramientas de la tecnología. RADIO GARDEN combina diferentes elementos. Podemos encontrar tecnología GPS que permite la ubicación geográfica del usuario y elegir y escuchar las emisoras de radio de todo el mundo, al mismo tiempo. Al entrar en la APP comenzamos a viajar virtualmente por el mundo mientras escuchamos música o programas de radio ya que nos permite elegir emisoras de cualquier parte del mundo.
 
-La app RADIOGARDEN nos permite seleccionar emisoras de radio de diferentes países, regiones y ciudades. Así, el usuario puede viajar virtualmente por el mundo mientras escucha música o programas de radio en el idioma y la temática que desee. La combinación de estos elementos permite una experiencia de usuario innovadora y atractiva.
+RADIO GARDEN permite a sus usuarios guardar y compartir sus emisoras favoritas, además de ampliar la base de datos de la APP según la sugerencias de ésto de emisoras que no existen en la APP. Esta interacción tecnología - usuario es un concepto que Manovich destaca en sus escritos.
+
+Otro aspecto importante que destaca Manovich en su teoría de la hibridación es la capacidad de los nuevos medios para crear conexiones y relaciones entre diferentes elementos. En el caso de RADIOGARDEN, la app conecta a los usuarios con diferentes culturas y formas de vida, a través de la escucha de programas de radio de distintas partes del mundo.
+
 
 ## Re-descubriendo la hibridacion: Caso 2
 
