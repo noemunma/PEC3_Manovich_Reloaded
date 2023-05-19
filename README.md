@@ -24,7 +24,9 @@ Para Manovich, la hibridación es el resultado del uso y combinación de diferen
 
 RADIO GARDEN permite a sus usuarios guardar y compartir sus emisoras favoritas, además de ampliar la base de datos de la APP según la sugerencias de ésto de emisoras que no existen en la APP. Esta interacción tecnología - usuario es un concepto que Manovich destaca en sus escritos.
 
-Otro aspecto importante que destaca Manovich en su teoría de la hibridación es la capacidad de los nuevos medios para crear conexiones y relaciones entre diferentes elementos. En el caso de RADIOGARDEN, la app conecta a los usuarios con diferentes culturas y formas de vida, a través de la escucha de programas de radio de distintas partes del mundo.
+Es increible cómo una APP puede conectar a usuarios que tienen diferentes formas de vida, puede llegar a unir culturas e idiomas a través de la música y de los programas de cada emisora. 
+
+SIn duda 
 
 
 ## Re-descubriendo la hibridacion: Caso 2
