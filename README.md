@@ -3,9 +3,12 @@
 ### PEC3: Visionando el futuro con las gafas de Manovich  
 
 
-Autor: Noelia Muñoz
+Autor: Noelia Muñoz  
+
 Asignatura: Cultura Digital 
-Centro: Universitat Oberta de Catalunya (UOC)
+
+Centro: Universitat Oberta de Catalunya  
+
 Fecha: 25 de mayo de 2023
 
 <p align="center">
