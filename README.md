@@ -19,11 +19,13 @@ Fecha: 25 de mayo de 2023
 
 
 
-## RADIO GARDEN
+## Re-descubriendo la hibridacion: RADIO GARDEN 
 
 La APP [RADIO GARDEN](https://radio.garden/ "Página web RADIO GARDEN") es un claro ejemplo de hibridación mediática que responde a la teoría de Lev Manovich en su obra "El Lenguaje de los Nuevos Medios". 
 
 Para Manovich, la hibridación es el resultado del uso y combinación de diferentes elementos y herramientas de la tecnología. [RADIO GARDEN](https://radio.garden/  "Página web RADIO GARDEN") combina diferentes elementos. Podemos encontrar tecnología GPS que permite la ubicación geográfica del usuario y elegir y escuchar las emisoras de radio de todo el mundo, al mismo tiempo. Al entrar en la APP comenzamos a viajar virtualmente por el mundo mientras escuchamos música o programas de radio ya que nos permite elegir emisoras de cualquier parte del mundo.
+
+![Radiogarden](https://github.com/noemunma/PEC3_Manovich_Reloaded-1/blob/main/Radiogarden.png?raw=true)
 
 [RADIO GARDEN](https://radio.garden/  "Página web RADIO GARDEN") permite a sus usuarios guardar y compartir sus emisoras favoritas, además de ampliar la base de datos de la APP según la sugerencias de ésto de emisoras que no existen en la APP. Esta interacción tecnología - usuario es un concepto que Manovich destaca en sus escritos.
 
@@ -32,11 +34,13 @@ Es increible cómo una APP puede conectar a usuarios que tienen diferentes forma
 Sin duda, [RADIO GARDEN](https://radio.garden/  "Página web RADIO GARDEN") 
 
 
-## WINDY
+## Re-descubriendo la hibridacion: WINDY
 
 [WINDY](https://www.windy.com "Página web WINDY")
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+![windy](https://github.com/noemunma/PEC3_Manovich_Reloaded-1/blob/main/Windy.png?raw=true)
 
 
 ### Referencias y Bibliografía
