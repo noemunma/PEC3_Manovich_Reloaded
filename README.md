@@ -4,8 +4,8 @@
 
 
 Autor: Noelia Muñoz
-
-
+Asignatura: Cultura Digital 
+Centro: Universitat Oberta de Catalunya (UOC)
 Fecha: 25 de mayo de 2023
 
 <p align="center">
@@ -16,6 +16,9 @@ Fecha: 25 de mayo de 2023
 
 ## La Hibridación
 
+<p align="center">
+  <img src=https://github.com/noemunma/PEC3_Manovich_Reloaded-1/blob/main/2023-05-22_15h18_06.png?raw=true alt=Cultura digital>
+</p>
 
 > Creo que el nuevo periodo que empieza a finales de los setenta representa una segunda fase, notablemente distinta, de la evolución del ordenador como metamedio, después de su primera fase de invención e implantación práctica inicial. Esta nueva fase es la hibridación de los medios. Manovich, Lev. (2013)
 
