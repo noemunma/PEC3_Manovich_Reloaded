@@ -2,12 +2,11 @@
 
 ### PEC3: Visionando el futuro con las gafas de Manovich  
 
-
-Autor: Noelia Muñoz  
+\textcolor{red}{el\_Autor: Noelia Muñoz}                                                                                                    
 
 Asignatura: Cultura Digital 
 
-Centro: Universitat Oberta de Catalunya  
+Centro: Universitat Oberta de Catalunya                                                                               
 
 Fecha: 25 de mayo de 2023
 
@@ -23,7 +22,7 @@ Fecha: 25 de mayo de 2023
   <img src=https://github.com/noemunma/PEC3_Manovich_Reloaded-1/blob/main/2023-05-22_15h18_06.png?raw=true alt=Cultura digital>
 </p>
 
-> Creo que el nuevo periodo que empieza a finales de los setenta representa una segunda fase, notablemente distinta, de la evolución del ordenador como metamedio, después de su primera fase de invención e implantación práctica inicial. Esta nueva fase es la hibridación de los medios. Manovich, Lev. (2013)
+> Creo que el nuevo periodo que empieza a finales de los setenta representa una segunda fase, notablemente distinta, de la evolución del ordenador como metamedio, después de su primera fase de invención e implantación práctica inicial. Esta nueva fase es la hibridación de los medios. *Manovich, Lev. (2013)*
 
 
 
@@ -58,7 +57,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
 
-
+https://www.lavanguardia.com/tecnologia/internet/20161214/412611661382/radio-garden-app-emisora-radio-mundo.html
 ----
 
 Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
