@@ -8,7 +8,7 @@ Autor: Noelia Muñoz
 
 Fecha: 25 de mayo de 2023
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
+![Cultura Digital](https://github.com/noemunma/PEC3_Manovich_Reloaded-1/blob/main/2023-05-22_15h18_06.png?raw=true)
 
 
 
