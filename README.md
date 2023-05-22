@@ -8,7 +8,9 @@ Autor: Noelia Muñoz
 
 Fecha: 25 de mayo de 2023
 
-![Cultura Digital](https://github.com/noemunma/PEC3_Manovich_Reloaded-1/blob/main/2023-05-22_15h18_06.png?raw=true)
+<p align="center">
+  <img src=https://github.com/noemunma/PEC3_Manovich_Reloaded-1/blob/main/2023-05-22_15h18_06.png?raw=true alt=Cultura digital>
+</p>
 
 
 
@@ -25,7 +27,10 @@ La APP [RADIO GARDEN](https://radio.garden/ "Página web RADIO GARDEN") es un cl
 
 Para Manovich, la hibridación es el resultado del uso y combinación de diferentes elementos y herramientas de la tecnología. [RADIO GARDEN](https://radio.garden/  "Página web RADIO GARDEN") combina diferentes elementos. Podemos encontrar tecnología GPS que permite la ubicación geográfica del usuario y elegir y escuchar las emisoras de radio de todo el mundo, al mismo tiempo. Al entrar en la APP comenzamos a viajar virtualmente por el mundo mientras escuchamos música o programas de radio ya que nos permite elegir emisoras de cualquier parte del mundo.
 
-![Radiogarden](https://github.com/noemunma/PEC3_Manovich_Reloaded-1/blob/main/Radiogarden.png?raw=true)
+<p align="center">
+  <img src=https://github.com/noemunma/PEC3_Manovich_Reloaded-1/blob/main/Radiogarden.png?raw=true alt=RadioGarden>
+</p>
+
 
 [RADIO GARDEN](https://radio.garden/  "Página web RADIO GARDEN") permite a sus usuarios guardar y compartir sus emisoras favoritas, además de ampliar la base de datos de la APP según la sugerencias de ésto de emisoras que no existen en la APP. Esta interacción tecnología - usuario es un concepto que Manovich destaca en sus escritos.
 
