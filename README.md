@@ -9,7 +9,7 @@ Centro: Universitat Oberta de Catalunya (UOC)
 Fecha: 25 de mayo de 2023
 
 <p align="center">
-  <img src=https://github.com/noemunma/PEC3_Manovich_Reloaded-1/blob/main/2023-05-22_15h18_06.png?raw=true alt=Cultura digital>
+  <img src=https://github.com/noemunma/PEC3_Manovich_Reloaded-1/blob/main/uoc-5a1940d-2.png?raw=true alt=Cultura digital>
 </p>
 
 
