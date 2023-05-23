@@ -67,7 +67,10 @@ Se hace realmente fácil utilizar la aplicación por su representación gráfica
 
 
 ![windy](https://github.com/noemunma/PEC3_Manovich_Reloaded-1/blob/main/Windy.png?raw=true)
+
+<p align="center">
 *Captura de pantalla de www.windy.com. Fuente: Noelia Muñoz*
+</p>
 
 Además, [WINDY](https://www.windy.com "Página web WINDY") permite a los usuarios contribuir con sus propias observaciones y datos, creando así una comunidad de usuarios activos. 
 
