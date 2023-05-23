@@ -22,15 +22,17 @@ Con la aparición de las nuevas tecnologías también aparecen nuevos conceptos.
 
 ¿Y qué es la **Hibridación Digital**? Podríamos defininir la **Hibridación Digital** como la mezcla y combinación de diferentes elementos digitales como imagenes, textos, sonidos, videos, permitiendonos crear nuevas formas de comunicación y expresiones no vistas con anterioridad. 
 
+
 <p align="center">
   <img src=https://github.com/noemunma/PEC3_Manovich_Reloaded-1/blob/main/2023-05-22_15h18_06.png?raw=true alt=Cultura digital>
 </p>
+
 
 Según la teoría de Lev Manovich, la **Hibridación Digital** se ha convertido en una característica clave de la cultura digital actual puesto que mezcla los contenidos de procesos culturales o de objetos, abarcando desde webs y aplicaciones móviles, hasta música, películas o juegos.
 
 > Creo que el nuevo periodo que empieza a finales de los setenta representa una segunda fase, notablemente distinta, de la evolución del ordenador como metamedio, después de su primera fase de invención e implantación práctica inicial. Esta nueva fase es la hibridación de los medios. *Manovich, Lev. (2013)*
 
-
+En las próximas líneas, me dispongo a analizar dos aplicaciones creadas con esta mezcla de elementos, dos claros ejemplos de **Hibridación Digital**.
 
 ## Re-descubriendo la hibridacion: RADIO GARDEN 
 
