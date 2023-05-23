@@ -61,12 +61,14 @@ Sin duda, [RADIO GARDEN](https://radio.garden/  "Página web RADIO GARDEN") es u
 
 ## Re-descubriendo la hibridacion: WINDY
 
-[WINDY](https://www.windy.com "Página web WINDY")
+Si eres navegante, pescador, windsurfer, si te van más las alturas y haces paracaidismo o eres más terrenal y haces ciclismo o quieres visitar una cala espectacular, debes tener siempre a mano [WINDY](https://www.windy.com "Página web WINDY").  [WINDY](https://www.windy.com "Página web WINDY") es una APP y web con la que se puede saber la previsión meteorológica con todo detalle en tiempo real y con gran precisión.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Se hace realmente fácil utilizar la aplicación por su representación gráfica del viento, olas y corrientes, entre otros, [WINDY](https://www.windy.com "Página web WINDY") ofrece una experiencia visualmente atractiva mediante la presentación de mapas interactivos con animaciones en tiempo real combinada con información obtenida de cientos de estaciones meteos repartidas por todos los rincones del planeta, a los que se suman barcos oceanográficos, boyas inteligentes, satélites e incluso aviones.
+
 
 ![windy](https://github.com/noemunma/PEC3_Manovich_Reloaded-1/blob/main/Windy.png?raw=true)
 
+Además, ![windy](https://github.com/noemunma/PEC3_Manovich_Reloaded-1/blob/main/Windy.png?raw=true) permite a los usuarios contribuir con sus propias observaciones y datos, creando así una comunidad de usuarios activos. 
 
 ### Referencias y Bibliografía
 
