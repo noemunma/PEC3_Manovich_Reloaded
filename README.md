@@ -70,10 +70,13 @@ Se hace realmente fácil utilizar la aplicación por su representación gráfica
 
 Además, [WINDY](https://www.windy.com "Página web WINDY") permite a los usuarios contribuir con sus propias observaciones y datos, creando así una comunidad de usuarios activos. 
 
-Nuevamente, vemos caracteristicas de la **Hibridación Digital** en esta aplicación. [WINDY](https://www.windy.com "Página web WINDY") se utiliza en todo el mundo por lo que la aplicación está dotada de multilenguaje, los datos metereologícos se presentan de diferentes formas teniendo en cuenta la región seleccionada, uniendo culturas, por lo que vemos una característica más de la **Hibridación** como indica Manovich. 
+Nuevamente, vemos caracteristicas de la **Hibridación Digital** en esta aplicación. No solo encontramos combinaciones de diferentes tecnologías como la geolocalización, obtención de datos metereologicos o de satelites, mapas interactivos y animaciones en tiempo real, [WINDY](https://www.windy.com "Página web WINDY") se utiliza en todo el mundo, por lo que la aplicación está dotada de multilenguaje, los datos metereologícos se presentan de diferentes formas teniendo en cuenta la región seleccionada, uniendo culturas, por lo que vemos una característica más de la **Hibridación** como indica Manovich. 
 
 ## Conclusión
 
+La hibridación ha transformado la forma en que se crean los medios. Nuestro consumo y experiencias son más enriquecedoras y reales que las de antaño. Parece que esta mezcla de tecnologías no tiene límite y continuamente vemos cómo hay creaciones innovadoras, además de la continua interacción que nos proporciona, nos permiten unirnos más con otras culturas.
+
+A medida que vaya pasando el tiempo y obtengamos más avances digitales, la hibridación hará que la sociedad y la cultura avance de la misma manera, creando una nueva forma de vivir, olvidando cómo vivíamos sin ella.
 
 
 ### Referencias y Bibliografía
