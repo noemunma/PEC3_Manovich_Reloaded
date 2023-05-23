@@ -52,10 +52,10 @@ En [RADIO GARDEN](https://radio.garden/  "Página web RADIO GARDEN") podemos enc
 </p>
 
 
-[RADIO GARDEN](https://radio.garden/  "Página web RADIO GARDEN") permite a sus usuarios guardar y compartir sus emisoras favoritas, además de ampliar la base de datos de la APP según la sugerencias de ésto de emisoras que no existen en la APP. Esta interacción tecnología - usuario es un concepto que Manovich destaca en sus escritos.
+[RADIO GARDEN](https://radio.garden/  "Página web RADIO GARDEN") permite a sus usuarios guardar y compartir sus emisoras favoritas, además, a través de la sugerencia de estos usuarios sobre emisoras que no existen en la APP, la aplicación amplia su base de datos. 
 
 
-Sin duda, [RADIO GARDEN](https://radio.garden/  "Página web RADIO GARDEN") es un claro ejemplo de **Hibridación Digital**. Como bien indica Manovich, la hibridación es el resultado del uso y combinación de diferentes elementos y herramientas de la tecnología y en esta aplicación encontramos esta mezcla. Además, esta APP puede conectar a usuarios que tienen diferentes formas de vida, puede llegar a unir culturas e idiomas a través de la música y de los programas de cada emisora. 
+Sin duda, [RADIO GARDEN](https://radio.garden/  "Página web RADIO GARDEN") es un claro ejemplo de **Hibridación Digital**. Como bien indica Manovich, la hibridación es el resultado del uso y combinación de diferentes elementos y herramientas de la tecnología y en esta aplicación encontramos esta mezcla. La *interacción tecnología - usuario* que se crea al permitir la sugerencia de nuevas emisoras,  es un concepto que Manovich destaca en sus escritos. Además, esta APP puede conectar a usuarios que tienen diferentes formas de vida, puede llegar a unir culturas e idiomas a través de la música y de los programas de cada emisora. 
 
 
 
