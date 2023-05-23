@@ -2,7 +2,7 @@
 
 ### PEC3: Visionando el futuro con las gafas de Manovich  
 
-\textcolor{red}{el\_Autor: Noelia Muñoz}                                                                                                    
+Autor: Noelia Muñoz
 
 Asignatura: Cultura Digital 
 
