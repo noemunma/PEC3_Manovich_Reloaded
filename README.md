@@ -70,7 +70,11 @@ Se hace realmente fácil utilizar la aplicación por su representación gráfica
 
 Además, [WINDY](https://www.windy.com "Página web WINDY") permite a los usuarios contribuir con sus propias observaciones y datos, creando así una comunidad de usuarios activos. 
 
-Nuevamente, vemos caracteristicas de la **Hibridación Digital** en esta aplicación.[WINDY](https://www.windy.com "Página web WINDY") se utiliza en todo el mundo por lo que la aplicación está dotada de multilenguaje, los datos metereologícos se presentan de diferentes formas teniendo en cuenta la región seleccionada, uniendo culturas, por lo que vemos una característica más de la **Hibridación** como indica Manovich. 
+Nuevamente, vemos caracteristicas de la **Hibridación Digital** en esta aplicación. [WINDY](https://www.windy.com "Página web WINDY") se utiliza en todo el mundo por lo que la aplicación está dotada de multilenguaje, los datos metereologícos se presentan de diferentes formas teniendo en cuenta la región seleccionada, uniendo culturas, por lo que vemos una característica más de la **Hibridación** como indica Manovich. 
+
+## Conclusión
+
+
 
 ### Referencias y Bibliografía
 
