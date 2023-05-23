@@ -43,9 +43,9 @@ En las próximas líneas, me dispongo a analizar dos aplicaciones creadas con es
 
 ## Re-descubriendo la hibridacion: RADIO GARDEN 
 
-La APP [RADIO GARDEN](https://radio.garden/ "Página web RADIO GARDEN") es un claro ejemplo de hibridación mediática que responde a la teoría de Lev Manovich en su obra "El Lenguaje de los Nuevos Medios". 
+La APP [RADIO GARDEN](https://radio.garden/ "Página web RADIO GARDEN") es una aplicación gratuita, que te permite escuchar música en linea y sin límite a través de un catálogo de emisoras de radio de todo el mundo.
 
-Para Manovich, la hibridación es el resultado del uso y combinación de diferentes elementos y herramientas de la tecnología. [RADIO GARDEN](https://radio.garden/  "Página web RADIO GARDEN") combina diferentes elementos. Podemos encontrar tecnología GPS que permite la ubicación geográfica del usuario y elegir y escuchar las emisoras de radio de todo el mundo, al mismo tiempo. Al entrar en la APP comenzamos a viajar virtualmente por el mundo mientras escuchamos música o programas de radio ya que nos permite elegir emisoras de cualquier parte del mundo.
+En [RADIO GARDEN](https://radio.garden/  "Página web RADIO GARDEN") podemos encontrar, por un lado, tecnología GPS que permite la ubicación geográfica del usuario y, por otro,  elegir y escuchar las emisoras de radio de todo el mundo, todo esto al mismo tiempo. Podríamos decir que, al entrar en la APP comenzamos a viajar virtualmente por el mundo, mientras escuchamos música o programas de radio de aquellos puntos que visitamos, ya que nos permite elegir emisoras de cualquier parte del mundo. 
 
 <p align="center">
   <img src=https://github.com/noemunma/PEC3_Manovich_Reloaded-1/blob/main/Radiogarden.png?raw=true alt=RadioGarden>
@@ -54,9 +54,9 @@ Para Manovich, la hibridación es el resultado del uso y combinación de diferen
 
 [RADIO GARDEN](https://radio.garden/  "Página web RADIO GARDEN") permite a sus usuarios guardar y compartir sus emisoras favoritas, además de ampliar la base de datos de la APP según la sugerencias de ésto de emisoras que no existen en la APP. Esta interacción tecnología - usuario es un concepto que Manovich destaca en sus escritos.
 
-Es increible cómo una APP puede conectar a usuarios que tienen diferentes formas de vida, puede llegar a unir culturas e idiomas a través de la música y de los programas de cada emisora. 
 
-Sin duda, [RADIO GARDEN](https://radio.garden/  "Página web RADIO GARDEN") 
+Sin duda, [RADIO GARDEN](https://radio.garden/  "Página web RADIO GARDEN") es un claro ejemplo de **Hibridación Digital**. Como bien indica Manovich, la hibridación es el resultado del uso y combinación de diferentes elementos y herramientas de la tecnología y en esta aplicación encontramos esta mezcla. Además, esta APP puede conectar a usuarios que tienen diferentes formas de vida, puede llegar a unir culturas e idiomas a través de la música y de los programas de cada emisora. 
+
 
 
 ## Re-descubriendo la hibridacion: WINDY
