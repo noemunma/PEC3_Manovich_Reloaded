@@ -81,9 +81,9 @@ A medida que vaya pasando el tiempo y obtengamos más avances digitales, la hibr
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
 * Adell, Ferran. (2014). **Remediación, multimedia e hibridación de los medios**.  (Consultado el 15 de mayo de 2023). Disponible en: http://multimedia.uoc.edu/blogs/fem/es/
 * Muñoz-Justicia, Juan (2014): **Conocimiento Abierto y Tecnología**.  (Consultado el 15 de mayo de 2023 ). Disponible en: http://juan.psicologiasocial.eu/conocimiento-y-tecnologia
-* McMillan, Robert (2012). **Lord of the Files: How GitHub Tamed Free Software (And More) **. (Consultado el 15 de mayo de 2023 ). Disponible en:  https://github.com/WiredEnterprise/Lord-of-the-Files
+* McMillan, Robert (2012). **Lord of the Files: How GitHub Tamed Free Software (And More)**. (Consultado el 15 de mayo de 2023 ). Disponible en:  https://github.com/WiredEnterprise/Lord-of-the-Files
 * Rubal Thomsen, Maria (2016): **RadioGarden, la aplicación para sintonizar cualquier emisora del planeta**. (Consultado el 20 de mayo de 2023). Disponible en:  https://www.lavanguardia.com/tecnologia/internet/20161214/412611661382/radio-garden-app-emisora-radio-mundo.html
-* Fondear*(2018): **Windy; La mejor meteo siempre a mano**. (Consultado el 20 de mayo de 2023). Disponible en: http://www.fondear.org/infonautic/equipo_y_usos/Electronica_Instrumentacion/Windy/App-Windy.asp
+* Fondear(2018): **Windy; La mejor meteo siempre a mano**. (Consultado el 20 de mayo de 2023). Disponible en: http://www.fondear.org/infonautic/equipo_y_usos/Electronica_Instrumentacion/Windy/App-Windy.asp
 * Google Play. **Captura de pantalla: Radio Garden Live**  (Consultado el 22 de mayo de 2023). Disponible en: https://play.google.com/store/apps/details?id=com.niotron.medialablcc.Radio_Garden_Live&hl=es_EC&gl=US
 * IStock BlackSalmon (2022) **Conceptos de tecnología Metaverse** (Consultado el 22 de mayo de 2023). Disponible en: https://www.istockphoto.com/es/foto/conceptos-de-tecnolog%C3%ADa-metaverse-web3-y-blockchain-mano-abierta-levitando-objetos-gm1367477512-437721616
 
