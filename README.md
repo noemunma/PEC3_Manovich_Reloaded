@@ -51,7 +51,6 @@ En [RADIO GARDEN](https://radio.garden/  "Página web RADIO GARDEN") podemos enc
   <img src=https://github.com/noemunma/PEC3_Manovich_Reloaded-1/blob/main/Radiogarden.png?raw=true alt=RadioGarden>
 </p>
 
-
 [RADIO GARDEN](https://radio.garden/  "Página web RADIO GARDEN") permite a sus usuarios guardar y compartir sus emisoras favoritas, además, a través de la sugerencia de estos usuarios sobre emisoras que no existen en la APP, la aplicación amplia su base de datos. 
 
 
