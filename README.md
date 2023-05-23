@@ -65,13 +65,8 @@ Si eres navegante, pescador, windsurfer, si te van más las alturas y haces para
 
 Se hace realmente fácil utilizar la aplicación por su representación gráfica del viento, olas y corrientes, entre otros, [WINDY](https://www.windy.com "Página web WINDY") ofrece una experiencia visualmente atractiva mediante la presentación de mapas interactivos con animaciones en tiempo real combinada con información obtenida de cientos de estaciones meteos repartidas por todos los rincones del planeta, a los que se suman barcos oceanográficos, boyas inteligentes, satélites e incluso aviones.
 
-
-![windy](https://github.com/noemunma/PEC3_Manovich_Reloaded-1/blob/main/Windy.png?raw=true)
-
-<p align="center">
-*Captura de pantalla de www.windy.com. Fuente: Noelia Muñoz*
-</p>
-
+<p align="center"><img src="https://github.com/noemunma/PEC3_Manovich_Reloaded-1/blob/main/Windy.png?raw=true" </br><b>Fuente:</b> <i>Captura de pantalla de www.windy.com - Noelia Muñoz</i></p>
+  
 Además, [WINDY](https://www.windy.com "Página web WINDY") permite a los usuarios contribuir con sus propias observaciones y datos, creando así una comunidad de usuarios activos. 
 
 Nuevamente, vemos caracteristicas de la **Hibridación Digital** en esta aplicación. No solo encontramos combinaciones de diferentes tecnologías como la geolocalización, obtención de datos metereologicos o de satelites, mapas interactivos y animaciones en tiempo real, [WINDY](https://www.windy.com "Página web WINDY") se utiliza en todo el mundo, por lo que la aplicación está dotada de multilenguaje, los datos metereologícos se presentan de diferentes formas teniendo en cuenta la región seleccionada, uniendo culturas, por lo que vemos una característica más de la **Hibridación** como indica Manovich. 
