@@ -31,7 +31,6 @@ Con la aparición de las nuevas tecnologías también aparecen nuevos conceptos.
 </p>
 
 
-
 Según la teoría de Lev Manovich, la **Hibridación Digital** se ha convertido en una característica clave de la cultura digital actual puesto que mezcla los contenidos de procesos culturales o de objetos, abarcando desde webs y aplicaciones móviles, hasta música, películas o juegos.
 
 
