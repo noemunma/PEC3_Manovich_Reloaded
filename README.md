@@ -22,7 +22,7 @@ Fecha: 25 de mayo de 2023
 Con la aparición de las nuevas tecnologías también aparecen nuevos conceptos. Aunque el concepto de **Hibridación** ha sido utilizado en diferentes campos, no es hasta finales del siglo XX y principios del XXI cuando surge el término en conceptos digitales. 
 
 
-¿Y qué es la **Hibridación Digital**? Podríamos defininir la **Hibridación Digital** como la mezcla y combinación de diferentes elementos digitales como imagenes, textos, sonidos, videos, permitiendonos crear nuevas formas de comunicación y expresiones no vistas con anterioridad. 
+¿Y qué es la **Hibridación**? Podríamos defininir la **Hibridación** como la mezcla y combinación de diferentes elementos digitales como imagenes, textos, sonidos, videos, permitiendonos crear nuevas formas de comunicación y expresiones no vistas con anterioridad. 
 
 
 
@@ -31,13 +31,13 @@ Con la aparición de las nuevas tecnologías también aparecen nuevos conceptos.
 </p>
 
 
-Según la teoría de Lev Manovich, la **Hibridación Digital** se ha convertido en una característica clave de la cultura digital actual puesto que mezcla los contenidos de procesos culturales o de objetos, abarcando desde webs y aplicaciones móviles, hasta música, películas o juegos.
+Según la teoría de Lev Manovich, la **Hibridación** se ha convertido en una característica clave de la cultura digital actual puesto que mezcla los contenidos de procesos culturales o de objetos, abarcando desde webs y aplicaciones móviles, hasta música, películas o juegos.
 
 
 > Creo que el nuevo periodo que empieza a finales de los setenta representa una segunda fase, notablemente distinta, de la evolución del ordenador como metamedio, después de su primera fase de invención e implantación práctica inicial. Esta nueva fase es la hibridación de los medios. *Manovich, Lev. (2013)*
 
 
-En las próximas líneas, me dispongo a analizar dos aplicaciones creadas con esta mezcla de elementos, dos claros ejemplos de **Hibridación Digital**.
+En las próximas líneas, me dispongo a analizar dos aplicaciones creadas con esta mezcla de elementos, dos claros ejemplos de **Hibridación**.
 
 
 ## Re-descubriendo la hibridacion: RADIO GARDEN 
@@ -53,7 +53,7 @@ En [RADIO GARDEN](https://radio.garden/  "Página web RADIO GARDEN") podemos enc
 [RADIO GARDEN](https://radio.garden/  "Página web RADIO GARDEN") permite a sus usuarios guardar y compartir sus emisoras favoritas, además, a través de la sugerencia de estos usuarios sobre emisoras que no existen en la APP, la aplicación amplia su base de datos. 
 
 
-Sin duda, [RADIO GARDEN](https://radio.garden/  "Página web RADIO GARDEN") es un claro ejemplo de **Hibridación Digital**. Como bien indica Manovich, la hibridación es el resultado del uso y combinación de diferentes elementos y herramientas de la tecnología y en esta aplicación encontramos esta mezcla. La *interacción tecnología - usuario* que se crea al permitir la sugerencia de nuevas emisoras,  es un concepto que Manovich destaca en sus escritos. Además, esta APP puede conectar a usuarios que tienen diferentes formas de vida, puede llegar a unir culturas e idiomas a través de la música y de los programas de cada emisora. 
+Sin duda, [RADIO GARDEN](https://radio.garden/  "Página web RADIO GARDEN") es un claro ejemplo de **Hibridación**. Como bien indica Manovich, la hibridación es el resultado del uso y combinación de diferentes elementos y herramientas de la tecnología y en esta aplicación encontramos esta mezcla. La *interacción tecnología - usuario* que se crea al permitir la sugerencia de nuevas emisoras,  es un concepto que Manovich destaca en sus escritos. Además, esta APP puede conectar a usuarios que tienen diferentes formas de vida, puede llegar a unir culturas e idiomas a través de la música y de los programas de cada emisora. 
 
 
 
@@ -67,7 +67,7 @@ Se hace realmente fácil utilizar la aplicación por su representación gráfica
   
 Además, [WINDY](https://www.windy.com "Página web WINDY") permite a los usuarios contribuir con sus propias observaciones y datos, creando así una comunidad de usuarios activos. 
 
-Nuevamente, vemos caracteristicas de la **Hibridación Digital** en esta aplicación. No solo encontramos combinaciones de diferentes tecnologías como la geolocalización, obtención de datos metereologicos o de satelites, mapas interactivos y animaciones en tiempo real, [WINDY](https://www.windy.com "Página web WINDY") se utiliza en todo el mundo, por lo que la aplicación está dotada de multilenguaje, los datos metereologícos se presentan de diferentes formas teniendo en cuenta la región seleccionada, uniendo culturas, por lo que vemos una característica más de la **Hibridación** como indica Manovich. 
+Nuevamente, vemos caracteristicas de la **Hibridación** en esta aplicación. No solo encontramos combinaciones de diferentes tecnologías como la geolocalización, obtención de datos metereologicos o de satelites, mapas interactivos y animaciones en tiempo real, [WINDY](https://www.windy.com "Página web WINDY") se utiliza en todo el mundo, por lo que la aplicación está dotada de multilenguaje, los datos metereologícos se presentan de diferentes formas teniendo en cuenta la región seleccionada, uniendo culturas, por lo que vemos una característica más de la **Hibridación** como indica Manovich. 
 
 ## Conclusión
 
