@@ -81,9 +81,14 @@ A medida que vaya pasando el tiempo y obtengamos más avances digitales, la hibr
 
 ### Referencias y Bibliografía
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
+* Adell, Ferran. (2014). **Remediación, multimedia e hibridación de los medios**.  (Consultado el 15 de mayo de 2023). Disponible en: http://multimedia.uoc.edu/blogs/fem/es/
+* Muñoz-Justicia, Juan (2014): **Conocimiento Abierto y Tecnología**.  (Consultado el 15 de mayo de 2023 ). Disponible en: http://juan.psicologiasocial.eu/conocimiento-y-tecnologia
+* McMillan, Robert (2012). **Lord of the Files: How GitHub Tamed Free Software (And More) **. (Consultado el 15 de mayo de 2023 ). Disponible en:  https://github.com/WiredEnterprise/Lord-of-the-Files
+* Rubal Thomsen, Maria (2016): **RadioGarden, la aplicación para sintonizar cualquier emisora del planeta**. (Consultado el 20 de mayo de 2023). Disponible en:  https://www.lavanguardia.com/tecnologia/internet/20161214/412611661382/radio-garden-app-emisora-radio-mundo.html
+* Fondear*(2018): **Windy; La mejor meteo siempre a mano**. (Consultado el 20 de mayo de 2023). Disponible en: http://www.fondear.org/infonautic/equipo_y_usos/Electronica_Instrumentacion/Windy/App-Windy.asp
 
-https://www.lavanguardia.com/tecnologia/internet/20161214/412611661382/radio-garden-app-emisora-radio-mundo.html
+
 ----
 
 Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
